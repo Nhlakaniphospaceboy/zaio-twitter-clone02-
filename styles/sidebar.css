@@ -1,0 +1,17 @@
+.sidebar-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 275px;
+    margin-left: auto;
+    padding: 15px;
+    }
+
+    .sidebar-logo img {
+        height: 2rem;
+    }
+
+    .sidebar-item {
+        display: flex;
+        align-items: center;
+    }
